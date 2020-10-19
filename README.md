@@ -1,1 +1,6 @@
-# mealy
+# Prototipação do Aplicativo Meally
+
+O resultado da pesquisa conduzida pela equipe identificou que as pessoas desconfiam se os estabelecimentos de alimentação fora do lar estarão aptos a oferecer um ambiente seguro e higienizado. Atualmente, as pessoas têm utilizado os aplicativos de delivery, mas essa solução não resolve o desejo de saírem para comer e socializarem. Para resolver essa questão, criamos a plataforma MealLy e nosso objetivo é proporcionar aos estabelecimentos ferramentas e tecnologias que possibilitem o atendimento com mínimo de contato possível, e aos usuários do nosso mobile app a segurança de sentirem mais seguras para saírem para comer fora e socializar em estabelecimentos recomendados pelos próprios frequentadores. Para alcançar esse objetivo oferecemos inicialmente para os estabelecimentos um sistema backoffice capaz de gerenciar reservas e filas online, pedidos, pagamentos e a possibilidade de oferecer ao cliente um tour online, além de pacotes adicionais de serviço; e para os usuários, uma plataforma gratuita que oferece uma variedade de estabelecimentos ranqueados de acordo com as avaliações e comentários em relação ao comprometimento com as orientações de higiene e segurança vigentes, e a comodidade de fazer reservas, entrar em um fila virtual, acessar o menu online, fazer o pedido e pagamento, fazer o check in e consumir com o o mínimo de contato com os funcionários.
+
+# Vídeo Apresentação
+https://youtu.be/G9GFz1-ZQ5s
